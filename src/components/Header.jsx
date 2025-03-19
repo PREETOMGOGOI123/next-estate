@@ -2,7 +2,7 @@
 
 
 import { useEffect, useState } from 'react'
-const logo = '/logo.png'
+const logo = 'https://res.cloudinary.com/dcmyqduai/image/upload/v1742381592/logo_foyv18.png'
 
 function Header() {
 
