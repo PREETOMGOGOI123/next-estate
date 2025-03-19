@@ -1,0 +1,29 @@
+.employee-card {
+    animation: loop-scroll linear infinite;
+}
+@media (min-width: 400px) {
+    .employee-card{
+        animation-duration: 20s;
+    }
+    @keyframes loop-scroll {
+        from {
+            transform: translateX(-500%);
+        }
+        to {
+            transform: translateX(500%);
+        }
+    }
+}
+@media (max-width: 400px) {
+    .employee-card{
+        animation-duration: 20s;
+    }
+    @keyframes loop-scroll {
+        from {
+            transform: translateY(-500%);
+        }
+        to {
+            transform: translateY(500%);
+        }
+    }
+}
