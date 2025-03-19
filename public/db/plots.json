@@ -7,9 +7,8 @@
         "size": "1000 sq.mtr",
         "price": 1500,
         "images": [
-            "/images/dreamscape/plot1/image-main.webp",
-            "/images/dreamscape/plot1/image-main.webp",
-            "/images/dreamscape/plot1/image-main.webp"
+            "https://res.cloudinary.com/dcmyqduai/image/upload/v1741951811/1_y6qs6l.webp",
+            "https://res.cloudinary.com/dcmyqduai/image/upload/v1741951811/1_y6qs6l.webp"
         ]
     },
     {
@@ -20,9 +19,9 @@
         "size": "3900 sq.mtr",
         "price": "Rs 1500/- sq.mtr",
         "images": [
-            "/images/dreamscape/plot2/main.webp",
-            "/images/dreamscape/plot2/2.webp",
-            "/images/dreamscape/plot2/3.webp"
+            "https://res.cloudinary.com/dcmyqduai/image/upload/v1741951853/5_ofujul.webp",
+            "https://res.cloudinary.com/dcmyqduai/image/upload/v1741951852/4_y2xhkj.webp",
+            "https://res.cloudinary.com/dcmyqduai/image/upload/v1741951851/3_akwni6.webp"
         ]
     },
     {
@@ -33,9 +32,9 @@
         "size": "90 sq.mtr",
         "price": "Rs 1500000/-",
         "images": [
-            "/images/dreamscape/plot3/main.webp",
-            "/images/dreamscape/plot3/2.webp",
-            "/images/dreamscape/plot3/3.webp"
+            "https://res.cloudinary.com/dcmyqduai/image/upload/v1741951870/13_s72uvn.webp",
+            "https://res.cloudinary.com/dcmyqduai/image/upload/v1741951869/12_zwm4rm.webp",
+            "https://res.cloudinary.com/dcmyqduai/image/upload/v1741951869/11_dyyime.webp"
         ]
     },
     {
@@ -46,9 +45,9 @@
         "size": "350 sq.mtr",
         "price": "Rs 1500/- per sq.mtr",
         "images": [
-            "/images/dreamscape/plot4/main.webp",
-            "/images/dreamscape/plot4/2.webp",
-            "/images/dreamscape/plot4/3.webp4"
+            "https://res.cloudinary.com/dcmyqduai/image/upload/v1741951886/16_gtmcc7.webp",
+            "https://res.cloudinary.com/dcmyqduai/image/upload/v1741951886/15_gww8gt.webp",
+            "https://res.cloudinary.com/dcmyqduai/image/upload/v1741951885/14_vsq5ay.webp"
         ]
     },
     {
@@ -59,9 +58,9 @@
         "size": "1500 sq.mtr",
         "price": "Rs 1500/- per sq.mtr",
         "images": [
-            "/images/dreamscape/plot5/main.webp",
-            "/images/dreamscape/plot5/2.webp",
-            "/images/dreamscape/plot5/3.webp"
+            "https://res.cloudinary.com/dcmyqduai/image/upload/v1741951914/19_rm0l0p.webp",
+            "https://res.cloudinary.com/dcmyqduai/image/upload/v1741951914/18_ars63o.webp",
+            "https://res.cloudinary.com/dcmyqduai/image/upload/v1741951913/17_aswpqm.webp"
         ]
     }
 ]
